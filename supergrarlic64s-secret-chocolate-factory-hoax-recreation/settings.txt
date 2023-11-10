@@ -1,0 +1,5 @@
+name=chocolate factory
+author=andypizza647
+description=a creation of    supergarlic64's  choco factory vid
+lives=3
+camera=2

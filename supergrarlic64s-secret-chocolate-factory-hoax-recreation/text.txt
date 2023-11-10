@@ -1,0 +1,15 @@
+endingtextcolor=200, 76, 12
+endingcolorname=brown
+endingtext=thanks for playing!,i hope you had fun!
+playername=odyssey mario
+hudtextcolor=255, 255, 255
+hudcolorname=white
+hudvisible=true
+hudworldletter=false
+hudoutline=false
+hudsimple=false
+toadtext=thank you mario!,you had a chocoBfactory!,and you didn't tell me?!
+peachtext=thank you mario!,your quest is over.,we present you a new quest.,push button b,to play as steve
+steve=true
+levelscreen=1|1|
+hudhidecollectables=f,f,f,f,f,f,f,f,f,f
